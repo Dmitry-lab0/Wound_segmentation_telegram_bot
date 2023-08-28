@@ -1,5 +1,5 @@
 # Wound Analyzer
-This repository contains Telegram Bot which analyze wound image for different tissue types.
+This repository contains Telegram Bot which segment wounds.
 
 # WARNING
 Several repository images(for example below in README.md) can shock. If you are impressionable person, authors don't recommend you to see this repository
