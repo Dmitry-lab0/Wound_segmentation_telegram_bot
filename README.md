@@ -51,7 +51,7 @@ Bot released by python module telebot
 /help - Get info about bot<br />
 
 ## Using Example
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/bot%20using%20example/example.jpg)
+![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/bot%20using%20example/example1.jpg)
 
 
 ## Install
