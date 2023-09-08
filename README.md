@@ -19,13 +19,13 @@ The UNet++ model was trained on an available dataset with the following loss fun
 <br />
 
 
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/graphics/UNET%2B%2Bdice.png)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/graphics/UNET%2B%2Bdice.png)
 
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/graphics/UNET%2B%2Bbce.png)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/graphics/UNET%2B%2Bbce.png)
 
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/graphics/UNET%2B%2Bbce%2Baug.png)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/graphics/UNET%2B%2Bbce%2Baug.png)
 
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/graphics/UNET%2B%2Blosses_IOU.png)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/graphics/UNET%2B%2Blosses_IOU.png)
 
 <br />
 Augmentation gives a great advantage: IOU increases at any stage and the training itself becomes more stable
@@ -40,7 +40,7 @@ It should be mentioned that the model does not cope well with the segmentation o
 In the future, it is planned to use the model created now for segmentation of tissues in the wound itself. The initial stage of the solution will be the segmentation of the wound itself in order to simplify the work for the neural network, which will be created and trained later. The initial segmentation of the lesion site itself with the help of a trained model is necessary, since some types of tissues that may be present in the wound are also found on unaffected skin that can get into the frame. Also, traces of blood on clothes or a cot, which also sometimes appear in the frame, can be mistakenly classified by the second neural network as tissue in the wound, so you should initially clear the images of such "noises" that will interfere with the work of the second neural network, the development of which we plan to begin in the near future.
 <br />
 ### Segmentation example
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/example/foots_ex.png)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/example/foots_ex.png)
 
 ## Bot
 Bot released by python module telebot
@@ -51,7 +51,7 @@ Bot released by python module telebot
 /help - Get info about bot<br />
 
 ## Using Example
-![alt tag](https://github.com/KOTOBOPOT/WoundAnalyzer/blob/main/photos/bot%20using%20example/example1.jpg)
+![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/bot%20using%20example/example1.jpg)
 
 
 ## Install
