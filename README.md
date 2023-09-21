@@ -50,8 +50,6 @@ Bot released by python module telebot
 /cancel - Cancel current command<br />
 /help - Get info about bot<br />
 
-## Using Example
-![alt tag](https://github.com/Dmitry-lab0/Wound_segmentation_telegram_bot/blob/main/photos/bot_using_example/example1.jpg)
 
 
 ## Install
